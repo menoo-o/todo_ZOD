@@ -1,0 +1,10 @@
+.nav{
+    display: block;
+    background-color: rgb(228, 175, 110) !important; 
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
